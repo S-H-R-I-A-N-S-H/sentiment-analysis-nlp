@@ -82,4 +82,4 @@ pip install transformers torch datasets
 
 ## Author
 
-**Shriansh** — AI Academia AI/ML Internship, 2026
+**Shriansh** - AI Academia AI/ML Internship, 2026
